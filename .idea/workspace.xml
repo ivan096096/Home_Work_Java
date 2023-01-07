@@ -4,16 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c2505c-8989-4b95-8146-b407d401282c" name="Changes" comment="lesson_1">
+    <list default="true" id="f1c2505c-8989-4b95-8146-b407d401282c" name="Changes" comment="lesson_4">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_3_Collection/Tovars/lesson_/les_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_5_Map/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/ReadInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_1/ReadInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -25,22 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Java/Home_Work_Java/src/main/java",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java/Home_Work_Java/src/main/java&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Java\Home_Work_Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.lesson_5_Map.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson_1.Main" />
       <module name="Home_Work_Java" />
@@ -54,8 +72,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_2.Task_1" />
+      <module name="Home_Work_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson_3_Collection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_3_Collection.Main" />
+      <module name="Home_Work_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_3_Collection.Tovars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson_4_LinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_4_LinkedList.Main" />
+      <module name="Home_Work_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_4_LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson_5_Map.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_5_Map.Main" />
+      <module name="Home_Work_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_5_Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson_5_Map.Main" />
+        <item itemvalue="Application.lesson_4_LinkedList.Main" />
+        <item itemvalue="Application.lesson_3_Collection.Main" />
+        <item itemvalue="Application.Task_1" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -69,7 +143,27 @@
       <option name="presentableId" value="Default" />
       <updated>1671204192095</updated>
       <workItem from="1671204193407" duration="2066000" />
-      <workItem from="1671305204379" duration="4343000" />
+      <workItem from="1671305204379" duration="4758000" />
+      <workItem from="1671345002752" duration="19000" />
+      <workItem from="1671350258840" duration="3469000" />
+      <workItem from="1671391568037" duration="26000" />
+      <workItem from="1671457802799" duration="8120000" />
+      <workItem from="1671560706545" duration="10000" />
+      <workItem from="1671732145277" duration="3225000" />
+      <workItem from="1671865629856" duration="3844000" />
+      <workItem from="1671987958509" duration="6875000" />
+      <workItem from="1672161199373" duration="6996000" />
+      <workItem from="1672238715941" duration="5795000" />
+      <workItem from="1672254895800" duration="580000" />
+      <workItem from="1672325410909" duration="10547000" />
+      <workItem from="1672479607586" duration="20782000" />
+      <workItem from="1672584593549" duration="35000" />
+      <workItem from="1672666220343" duration="9093000" />
+      <workItem from="1672764395402" duration="5087000" />
+      <workItem from="1672938699597" duration="6231000" />
+      <workItem from="1672944952748" duration="6000" />
+      <workItem from="1673095941738" duration="66000" />
+      <workItem from="1673100989224" duration="1292000" />
     </task>
     <task id="LOCAL-00001" summary="lesson_1">
       <created>1671306054848</created>
@@ -78,7 +172,28 @@
       <option name="project" value="LOCAL" />
       <updated>1671306054848</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson_1">
+      <created>1672247460280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672247460280</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson_3">
+      <created>1672519312845</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672519312845</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson_4">
+      <created>1672768369950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672768369950</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +216,9 @@
     </ignored-roots>
     <MESSAGE value="lesson1" />
     <MESSAGE value="lesson_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_1" />
+    <MESSAGE value="lesson_3" />
+    <MESSAGE value="lesson_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
