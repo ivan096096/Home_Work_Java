@@ -1,4 +1,4 @@
-package lesson_3_Collection.Tovars;
+package Collections.lesson_3_Collection.Tovars;
 
 
 public class Tovar {

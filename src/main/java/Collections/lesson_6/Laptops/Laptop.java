@@ -1,4 +1,4 @@
-package lesson_6.Laptops;
+package Collections.lesson_6.Laptops;
 
 public class Laptop {
     String name;
@@ -11,6 +11,15 @@ public class Laptop {
     public Laptop() {
     }
 
+    /**
+     *
+     * @param name //Имя
+     * @param operatingSystem //
+     * @param ram
+     * @param processor
+     * @param storageCapacity
+     * @param color
+     */
     public Laptop(String name, String operatingSystem, int ram, String processor, int storageCapacity, String color) {
         this.name = name;
         this.operatingSystem = operatingSystem;

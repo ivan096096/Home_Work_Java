@@ -1,11 +1,10 @@
-package lesson_6.Laptops;
+package Collections.lesson_6.Laptops;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 public class getLaptop implements getFunctions {
-
     @Override
     public List<Laptop> getListLaptops() {
         List<Laptop> listLaptops = Arrays.asList(

@@ -1,4 +1,4 @@
-package lesson_6.Laptops;
+package Collections.lesson_6.Laptops;
 import java.util.List;
 import java.util.Map;
 

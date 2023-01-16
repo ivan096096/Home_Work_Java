@@ -1,4 +1,4 @@
-package lesson_5_Map;
+package Collections.lesson_5_Map;
 /*
 
 3) Найти пересечения слов в массивах и указать их общее количество.

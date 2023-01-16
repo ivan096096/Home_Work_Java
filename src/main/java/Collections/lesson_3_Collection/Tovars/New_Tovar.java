@@ -1,4 +1,4 @@
-package lesson_3_Collection.Tovars;
+package Collections.lesson_3_Collection.Tovars;
 /*
  2. Сведения о товаре состоят из наименования,
      страны-производителя, веса, цены, сорта.

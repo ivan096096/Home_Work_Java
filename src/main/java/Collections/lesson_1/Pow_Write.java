@@ -1,4 +1,4 @@
-package lesson_1;
+package Collections.lesson_1;
 
 import java.io.FileWriter;
 import java.io.IOException;

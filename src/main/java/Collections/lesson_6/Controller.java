@@ -1,10 +1,10 @@
-package lesson_6;
+package Collections.lesson_6;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import lesson_6.Laptops.getLaptop;
-import lesson_6.Laptops.Laptop;
+import Collections.lesson_6.Laptops.getLaptop;
+import Collections.lesson_6.Laptops.Laptop;
 
 public class Controller {
     private static List<Laptop> listLaptops = new getLaptop().getListLaptops();

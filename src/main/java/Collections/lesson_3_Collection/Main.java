@@ -1,4 +1,4 @@
-package lesson_3_Collection;
+package Collections.lesson_3_Collection;
 /*
     1. Дан массив записей: наименование товара, цена, сорт.
      Найти наибольшую цену товаров 1го или 2го сорта среди товаров, название которых содержит «высший».
@@ -15,9 +15,9 @@ package lesson_3_Collection;
     [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
  */
 
-import lesson_3_Collection.Tovars.Books;
-import lesson_3_Collection.Tovars.New_Tovar;
-import lesson_3_Collection.Tovars.Tovar;
+import Collections.lesson_3_Collection.Tovars.Books;
+import Collections.lesson_3_Collection.Tovars.New_Tovar;
+import Collections.lesson_3_Collection.Tovars.Tovar;
 
 import java.util.ArrayList;
 import java.util.Comparator;

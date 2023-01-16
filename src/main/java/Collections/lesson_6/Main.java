@@ -1,4 +1,4 @@
-package lesson_6;
+package Collections.lesson_6;
 import java.util.Scanner;
 
 public class Main {

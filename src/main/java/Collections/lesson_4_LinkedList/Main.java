@@ -1,4 +1,4 @@
-package lesson_4_LinkedList;
+package Collections.lesson_4_LinkedList;
 /*
 Добрый день, думаю этих 2-х хватит:
 1) Вывести список на экран в перевернутом виде (без массивов)
