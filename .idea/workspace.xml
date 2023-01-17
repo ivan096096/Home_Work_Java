@@ -4,34 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c2505c-8989-4b95-8146-b407d401282c" name="Changes" comment="lesson_6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_1/BaseHero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_1/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_1/Magician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_1/Priest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_1/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_1/Meat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_1/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_1/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_1/VendingMachine.java" afterDir="false" />
+    <list default="true" id="f1c2505c-8989-4b95-8146-b407d401282c" name="Changes" comment="lesson_1_OOP">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson_1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson_1/Baton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson_1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson_1/VendingMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/Pow_Write.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_1/Pow_Write.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/ReadInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_1/ReadInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_2/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_2/Task_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_3_Collection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_3_Collection/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_3_Collection/Tovars/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_3_Collection/Tovars/Books.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_3_Collection/Tovars/New_Tovar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_3_Collection/Tovars/New_Tovar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_3_Collection/Tovars/Tovar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_3_Collection/Tovars/Tovar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_4_LinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_4_LinkedList/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_5_Map/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_5_Map/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_6/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_6/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_6/Laptops/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_6/Laptops/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_6/Laptops/getFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_6/Laptops/getFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_6/Laptops/getLaptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_6/Laptops/getLaptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/lesson_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/HashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_1/Pow_Write.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_1/ReadInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_2/Task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_3_Collection/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_3_Collection/Tovars/Books.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_3_Collection/Tovars/New_Tovar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_3_Collection/Tovars/Tovar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_3_Collection/Tovars/lesson_/les_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_4_LinkedList/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_5_Map/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_6/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_6/Laptops/GetFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_6/Laptops/Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_6/Laptops/Main_Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_6/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +48,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="HomeWork" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,6 +70,9 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Java/Home_Work_Java/src/main/java/OOP/ClassWork/lesson_1&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
@@ -82,6 +80,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Java\Home_Work_Java\src\main\java\OOP\ClassWork\lesson_1" />
       <recent name="C:\Java\Home_Work_Java\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\Home_Work_Java\src\main\java" />
+      <recent name="C:\Java\Home_Work_Java\src\main" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -152,8 +154,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.lesson_6.Main" />
         <item itemvalue="Application.lesson_5_Map.Main" />
         <item itemvalue="Application.lesson_4_LinkedList.Main" />
