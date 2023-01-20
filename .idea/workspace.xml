@@ -5,28 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1c2505c-8989-4b95-8146-b407d401282c" name="Changes" comment="lesson_1_OOP">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson_1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson_1/Baton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson_1/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson_1/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Ostrich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Runable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Speakable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Swim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Сrocodile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/HashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_1/Pow_Write.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_1/ReadInput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_2/Task_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_3_Collection/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_3_Collection/Tovars/Books.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_3_Collection/Tovars/New_Tovar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_3_Collection/Tovars/Tovar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_3_Collection/Tovars/lesson_/les_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_4_LinkedList/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_5_Map/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_6/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_6/Laptops/GetFunctions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_6/Laptops/Laptop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_6/Laptops/Main_Laptop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ClassWork/lesson_6/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -86,7 +81,20 @@
       <recent name="C:\Java\Home_Work_Java\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.HomeWork.lesson_2.App" />
+      <module name="Home_Work_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.HomeWork.lesson_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.HomeWork.lesson_1.Main" />
       <module name="Home_Work_Java" />
@@ -106,19 +114,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="OOP.ClassWork.lesson_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson_4_LinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_4_LinkedList.Main" />
-      <module name="Home_Work_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_4_LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.lesson_6.Main" />
         <item itemvalue="Application.lesson_5_Map.Main" />
-        <item itemvalue="Application.lesson_4_LinkedList.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +192,10 @@
       <workItem from="1673638439838" duration="2000" />
       <workItem from="1673726207671" duration="8000" />
       <workItem from="1673879030188" duration="7395000" />
+      <workItem from="1674066661502" duration="1410000" />
+      <workItem from="1674138233879" duration="10552000" />
+      <workItem from="1674221356832" duration="4000" />
+      <workItem from="1674232604687" duration="5251000" />
     </task>
     <task id="LOCAL-00001" summary="lesson_1">
       <created>1671306054848</created>
