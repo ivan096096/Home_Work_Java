@@ -4,23 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c2505c-8989-4b95-8146-b407d401282c" name="Changes" comment="lesson_1_OOP">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Ostrich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Runable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Speakable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Swim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_2/Сrocodile.java" afterDir="false" />
+    <list default="true" id="f1c2505c-8989-4b95-8146-b407d401282c" name="Changes" comment="Домашняя работа №4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/Task/Ex000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/Task/Ex001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/Task/Ex002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/Task/Ex003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/Task/Ex004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/Task/Ex005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/Task/Ex005_ArraysMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/Task/Ex006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/Task/Ex007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_2/Personal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_1/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_1/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_1/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_1/Magician.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -63,25 +66,33 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Java/Home_Work_Java/src/main/java/OOP/ClassWork/lesson_1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java/Home_Work_Java/src/main/java/OOP/HomeWork/lesson_5&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\Home_Work_Java\src\main\java\OOP\HomeWork\lesson_5" />
+      <recent name="C:\Java\Home_Work_Java\src\main\java\OOP\HomeWork\lesson_6" />
+      <recent name="C:\Java\Home_Work_Java\src\main\java\OOP\HomeWork\lesson_4" />
+      <recent name="C:\Java\Home_Work_Java\src\main\java\OOP\ClassWork\lesson" />
       <recent name="C:\Java\Home_Work_Java\src\main\java\OOP\ClassWork\lesson_1" />
-      <recent name="C:\Java\Home_Work_Java\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\Home_Work_Java\src\main\java\OOP\HomeWork\lesson_5" />
       <recent name="C:\Java\Home_Work_Java\src\main\java" />
       <recent name="C:\Java\Home_Work_Java\src\main" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="OOP.HomeWork.lesson_5.model" />
+      <recent name="OOP.HomeWork.lesson_5.personal.model" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.OOP.HomeWork.lesson_5.Main">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.HomeWork.lesson_2.App" />
       <module name="Home_Work_Java" />
@@ -96,11 +107,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.HomeWork.lesson_1.Main" />
+      <option name="MAIN_CLASS_NAME" value="OOP.HomeWork.lesson_4.Main" />
       <module name="Home_Work_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.HomeWork.lesson_1.*" />
+          <option name="PATTERN" value="OOP.HomeWork.lesson_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.ClassWork.lesson_1.Program" />
+    <configuration name="OOP.HomeWork.lesson_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.HomeWork.lesson_5.Main" />
       <module name="Home_Work_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.ClassWork.lesson_1.*" />
+          <option name="PATTERN" value="OOP.HomeWork.lesson_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson_5_Map.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_5_Map.Main" />
+    <configuration name="OOP.HomeWork.lesson_5.personal.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.HomeWork.lesson_5.personal.Main" />
       <module name="Home_Work_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_5_Map.*" />
+          <option name="PATTERN" value="OOP.HomeWork.lesson_5.personal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson_6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_6.Main" />
+    <configuration name="OOP.HomeWork.lesson_6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.HomeWork.lesson_6.Main" />
       <module name="Home_Work_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_6.*" />
+          <option name="PATTERN" value="OOP.HomeWork.lesson_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
+        <item itemvalue="Application.OOP.HomeWork.lesson_5.Main" />
+        <item itemvalue="Application.OOP.HomeWork.lesson_6.Main" />
+        <item itemvalue="Application.OOP.HomeWork.lesson_5.personal.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.lesson_6.Main" />
-        <item itemvalue="Application.lesson_5_Map.Main" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +206,29 @@
       <workItem from="1674066661502" duration="1410000" />
       <workItem from="1674138233879" duration="10552000" />
       <workItem from="1674221356832" duration="4000" />
-      <workItem from="1674232604687" duration="5251000" />
+      <workItem from="1674232604687" duration="5788000" />
+      <workItem from="1674242788445" duration="427000" />
+      <workItem from="1674284623068" duration="7688000" />
+      <workItem from="1674372891863" duration="3824000" />
+      <workItem from="1674411843240" duration="632000" />
+      <workItem from="1674493069457" duration="4713000" />
+      <workItem from="1674580492364" duration="5235000" />
+      <workItem from="1674664176667" duration="33000" />
+      <workItem from="1674744249596" duration="1778000" />
+      <workItem from="1675175629190" duration="10883000" />
+      <workItem from="1675267299522" duration="68000" />
+      <workItem from="1675269377825" duration="3884000" />
+      <workItem from="1675360124670" duration="5332000" />
+      <workItem from="1675447337935" duration="610000" />
+      <workItem from="1675594706002" duration="3000" />
+      <workItem from="1675602179965" duration="1878000" />
+      <workItem from="1675700164334" duration="3668000" />
+      <workItem from="1675788124943" duration="1645000" />
+      <workItem from="1675879378164" duration="3031000" />
+      <workItem from="1675964304987" duration="4315000" />
+      <workItem from="1676142268854" duration="2561000" />
+      <workItem from="1676209217687" duration="10932000" />
+      <workItem from="1676305033494" duration="473000" />
     </task>
     <task id="LOCAL-00001" summary="lesson_1">
       <created>1671306054848</created>
@@ -246,7 +279,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673453453088</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Домашняя работа №2">
+      <created>1674238367597</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674238367597</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Домашняя работа №3">
+      <created>1675181321146</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675181321146</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Домашняя работа №4">
+      <created>1675364216133</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675364216133</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +326,36 @@
     <MESSAGE value="lesson_3" />
     <MESSAGE value="lesson_4" />
     <MESSAGE value="lesson_6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_6" />
+    <MESSAGE value="Домашняя работа №2" />
+    <MESSAGE value="Домашняя работа №3" />
+    <MESSAGE value="Домашняя работа №4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа №4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/OOP/ClassWork/lesson_2/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/OOP/HomeWork/lesson_5/utils/views/ViewUser.java</url>
+          <line>97</line>
+          <properties class="OOP.HomeWork.lesson_5.views.ViewUser" method="create">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="shieldbearersTeam.team.get(1)" />
+        <watch expression="shieldbearersTeam.team.get(1)" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
